@@ -1,1 +1,1 @@
-Git testing repository
+Git test repository
